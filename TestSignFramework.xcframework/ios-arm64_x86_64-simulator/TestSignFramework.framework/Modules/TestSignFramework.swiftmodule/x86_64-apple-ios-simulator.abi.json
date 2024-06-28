@@ -1,0 +1,64 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TestSignFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "TestSignFile",
+        "printedName": "TestSignFile",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "printHello",
+            "printedName": "printHello()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17TestSignFramework0aB4FileC10printHelloyyF",
+            "mangledName": "$s17TestSignFramework0aB4FileC10printHelloyyF",
+            "moduleName": "TestSignFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:17TestSignFramework0aB4FileC",
+        "mangledName": "$s17TestSignFramework0aB4FileC",
+        "moduleName": "TestSignFramework",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/kostadinagecevska\/Documents\/TestSignFramework\/TestSignFramework\/TestSignFile.swift",
+      "kind": "StringLiteral",
+      "offset": 197,
+      "length": 17,
+      "value": "\"hello my friend\""
+    }
+  ]
+}

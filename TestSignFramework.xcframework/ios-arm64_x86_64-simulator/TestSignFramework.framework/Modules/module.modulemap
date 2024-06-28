@@ -1,0 +1,11 @@
+framework module TestSignFramework {
+  umbrella header "TestSignFramework.h"
+  export *
+
+  module * { export * }
+}
+
+module TestSignFramework.Swift {
+  header "TestSignFramework-Swift.h"
+  requires objc
+}
