@@ -20,6 +20,27 @@
         "printedName": "TestSignFile",
         "children": [
           {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "TestSignFile",
+                "printedName": "TestSignFramework.TestSignFile",
+                "usr": "s:17TestSignFramework0aB4FileC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:17TestSignFramework0aB4FileCACycfc",
+            "mangledName": "$s17TestSignFramework0aB4FileCACycfc",
+            "moduleName": "TestSignFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
             "kind": "Function",
             "name": "printHello",
             "printedName": "printHello()",
@@ -46,8 +67,7 @@
         "moduleName": "TestSignFramework",
         "declAttributes": [
           "AccessControl"
-        ],
-        "hasMissingDesignatedInitializers": true
+        ]
       }
     ],
     "json_format_version": 8
@@ -56,7 +76,7 @@
     {
       "filePath": "\/Users\/kostadinagecevska\/Documents\/TestSignFramework\/TestSignFramework\/TestSignFile.swift",
       "kind": "StringLiteral",
-      "offset": 197,
+      "offset": 227,
       "length": 17,
       "value": "\"hello my friend\""
     }

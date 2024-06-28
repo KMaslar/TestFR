@@ -8,7 +8,8 @@ import Swift
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-@_hasMissingDesignatedInitializers public class TestSignFile {
+public class TestSignFile {
+  public init()
   public func printHello()
   @objc deinit
 }

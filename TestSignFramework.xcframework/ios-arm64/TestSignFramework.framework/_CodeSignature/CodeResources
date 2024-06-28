@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/TestSignFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		/X7i5XGzVJypid751CD+zAXfNTM=
+		QzOSN6qzVh6SSKmRI1oOY5HqUiU=
 		</data>
 		<key>Modules/TestSignFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		Xc0H0oxLCUb6uxZKI4dCe+JogPI=
+		PTA15PDnx30UK2XYk1Mf9U3CLtM=
 		</data>
 		<key>Modules/TestSignFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/TestSignFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		Xc0H0oxLCUb6uxZKI4dCe+JogPI=
+		PTA15PDnx30UK2XYk1Mf9U3CLtM=
 		</data>
 		<key>Modules/TestSignFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		w30hdJ6a3fh0AdNEOA7xXP0HTjQ=
+		cBpst83g5+ldYqHSxQkZ/c4NB2g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,14 +61,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GCrxVrqGRmNqmx3s4Yta0qhFlUXBp+RueSNvN139dQI=
+			fFGr1AWNZLGLU0E5TUmaVpeMjcGcF+rllNUZkZoMCuA=
 			</data>
 		</dict>
 		<key>Modules/TestSignFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SYCQroJu815MtkR400Lkx3pH6eCKT778zcN8NJzNWSU=
+			cQ0kQEVZLyF73sKNTSU6+PIIdynE1CfD9/gIP2E8Al4=
 			</data>
 		</dict>
 		<key>Modules/TestSignFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -82,14 +82,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SYCQroJu815MtkR400Lkx3pH6eCKT778zcN8NJzNWSU=
+			cQ0kQEVZLyF73sKNTSU6+PIIdynE1CfD9/gIP2E8Al4=
 			</data>
 		</dict>
 		<key>Modules/TestSignFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jxBE+YvM4qJ4KZ7C7GK6g6qe3tfsFFaqaVfZpYqBOkE=
+			qnoV6Q4q4kHjUmskd9MFTSxMo0zD+xonUerlJCCi6SU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

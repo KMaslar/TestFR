@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/TestSignFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		/X7i5XGzVJypid751CD+zAXfNTM=
+		QzOSN6qzVh6SSKmRI1oOY5HqUiU=
 		</data>
 		<key>Modules/TestSignFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		TPouHn9kjG30exHnynzFoR4YcZU=
+		PYODAKY3qXGeybeghzQzHoVrF5E=
 		</data>
 		<key>Modules/TestSignFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/TestSignFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		TPouHn9kjG30exHnynzFoR4YcZU=
+		PYODAKY3qXGeybeghzQzHoVrF5E=
 		</data>
 		<key>Modules/TestSignFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		wQhOEHodvuMjaj+M98oFDCHIk2Q=
+		LmAMQosMHSeO+P1OzxMiwu2mbuE=
 		</data>
 		<key>Modules/TestSignFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		/X7i5XGzVJypid751CD+zAXfNTM=
+		QzOSN6qzVh6SSKmRI1oOY5HqUiU=
 		</data>
 		<key>Modules/TestSignFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		jB2vDW5bVbbTbZJ1+GAXr29NZT4=
+		p9S6P32PrqnKNJUtMO04AFMPS7Q=
 		</data>
 		<key>Modules/TestSignFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/TestSignFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		jB2vDW5bVbbTbZJ1+GAXr29NZT4=
+		p9S6P32PrqnKNJUtMO04AFMPS7Q=
 		</data>
 		<key>Modules/TestSignFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		9CQxHfprt1HdbtdjZ0K0OL5ktn0=
+		jJJ1GG/ZEAGsrAGgf1AvWGcYtpw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,14 +81,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GCrxVrqGRmNqmx3s4Yta0qhFlUXBp+RueSNvN139dQI=
+			fFGr1AWNZLGLU0E5TUmaVpeMjcGcF+rllNUZkZoMCuA=
 			</data>
 		</dict>
 		<key>Modules/TestSignFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			B3uOKdpMlRSBHwYCT7AoCQjWVtCJCjYie013ZPsDx8Q=
+			PR20Taqwld0e7meiSexaDpFXYp1DwNmqUjaZheMiCxU=
 			</data>
 		</dict>
 		<key>Modules/TestSignFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -102,28 +102,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			B3uOKdpMlRSBHwYCT7AoCQjWVtCJCjYie013ZPsDx8Q=
+			PR20Taqwld0e7meiSexaDpFXYp1DwNmqUjaZheMiCxU=
 			</data>
 		</dict>
 		<key>Modules/TestSignFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+HLEcncg4Qjwso2kBxClXdSiBvet6z+Vp6kzeKmZQZU=
+			bXsZU0dGYQsXwx8pI4HV4ItbC2Kv0er2tZvw7uED2/I=
 			</data>
 		</dict>
 		<key>Modules/TestSignFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GCrxVrqGRmNqmx3s4Yta0qhFlUXBp+RueSNvN139dQI=
+			fFGr1AWNZLGLU0E5TUmaVpeMjcGcF+rllNUZkZoMCuA=
 			</data>
 		</dict>
 		<key>Modules/TestSignFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			k96he/l4AQrsStdJhKfceDxAG9ZtFAkLiH5huaYlu3c=
+			7c6w0FnterWtUA2iLDW5Q+4NXIxtppwgLhUsRTBwXuI=
 			</data>
 		</dict>
 		<key>Modules/TestSignFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -137,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			k96he/l4AQrsStdJhKfceDxAG9ZtFAkLiH5huaYlu3c=
+			7c6w0FnterWtUA2iLDW5Q+4NXIxtppwgLhUsRTBwXuI=
 			</data>
 		</dict>
 		<key>Modules/TestSignFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wx1BTvwVX/d7JBT7/xe9zqHYXLxIOb19T5ppdTwBANg=
+			bB/y9Ng5d+OOh4uTT6w2exao26sHRLefGPqXfbDuVpo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
